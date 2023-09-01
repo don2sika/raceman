@@ -1,5 +1,4 @@
-# raceman
-# RACEMAN: Robust and Adaptive Intrusion Detection in Online Social Networks
+# RACEMAN
 
 ## Table of Contents
 
